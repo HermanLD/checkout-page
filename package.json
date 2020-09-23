@@ -1,7 +1,7 @@
 {
   "name": "checkout-page",
   "version": "1.0.0",
-  "description": "<!-- Please update value in the {}  -->",
+  "description": "Example checkout page",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --env=dev --open",
